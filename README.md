@@ -1,2 +1,3 @@
 # sample-website
-this is a sample website, feel free to use it as a template. 
+
+FIRST DOWNLOAD THE WEBSITE FOLDER AND README FILE ON YOUR PC AND THEN FOLLOW THE INSTRUCTIONS WRITTEN IN THE README FILE
